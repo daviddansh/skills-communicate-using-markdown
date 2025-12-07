@@ -5,3 +5,7 @@
 ```
 $ git -v
 ```
+
+- [ ] Return to requests
+- [ ] Create a list
+- [ ] Commit changes
